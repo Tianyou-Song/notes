@@ -8,7 +8,7 @@ good description of projects
 no generic tech stack
 customer facing experience for customer facing roles
 
-pitfall: can' tell what you are
+pitfall: can't tell what you are
 objective: what do you do
 
 developer: blurb and projects more than resume
