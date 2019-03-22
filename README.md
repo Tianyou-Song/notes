@@ -16,6 +16,7 @@ finish project
 
 
 
+
 cover letters:
 no
 yes: explain how you can pring value to company, know what company is doing, why passionate about industry, personal connection to industry
